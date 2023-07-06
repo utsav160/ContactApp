@@ -8,8 +8,8 @@
 		<version>2.7.13</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.utsav</groupId>
-	<artifactId>phone_directory</artifactId>
+	<groupId>in.crud.contactapp</groupId>
+	<artifactId>ContactApp</artifactId>
 	<version>1.0</version>
 	<name>phone_directory</name>
 	<description>Contact Application</description>
