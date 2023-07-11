@@ -9,9 +9,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>in.crud.contactapp</groupId>
-	<artifactId>ContactApp</artifactId>
+	<artifactId>PhoneDirectoryApplication</artifactId>
 	<version>1.0</version>
-	<name>phone_directory</name>
+	<name>ContactApp</name>
 	<description>Contact Application</description>
 	<properties>
 		<java.version>11</java.version>
